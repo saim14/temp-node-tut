@@ -1,0 +1,12 @@
+-> New project
+    git init
+    git add .
+    git commit -m 'whatever the message is'
+    git branch -M main 
+    git remote add origin https://github.com/saim14/<repo_name>.git
+    git push -u origin main 
+
+-> Existing project on github 
+    git add . 
+    git commit -m 'message'
+    git push -u origin main 
